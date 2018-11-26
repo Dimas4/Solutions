@@ -1,6 +1,6 @@
 import encoded_csv
 
 
-filename = "win.csv"
+filename = "filename.csv"
 
 print(encoded_csv.get_csv(filename))
